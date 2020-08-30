@@ -1,5 +1,5 @@
 # Kaggle_Competition
-- I joined Kaggle competition and studied the data analysis methods. I write the code for the implementation.
+ I joined Kaggle competition and studied the data analysis methods. I write the code for the implementation.
 
 ## 1. Kaggle_Titanic (2020.05.23)  
 - Data (csv files)   [Click](https://github.com/youngbinwoo/Kaggle_Competition/tree/master/Kaggle_Titanic/Data)  
