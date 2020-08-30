@@ -7,7 +7,7 @@
  : Test  
  : gender_submission
 
-- Method [Code](https://github.com/youngbinwoo/Kaggle_Competition/tree/master/Kaggle_Titanic/Code) 
+- Method [Code](https://github.com/youngbinwoo/Kaggle_Competition/tree/master/Kaggle_Titanic/Code)    
  : K-Nearest Neighbor 
 
 - Result (csv files)  [Click](https://github.com/youngbinwoo/Kaggle_Competition/tree/master/Kaggle_Titanic/Result) 
