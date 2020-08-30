@@ -14,7 +14,7 @@
 - Result (csv files)    [Click](https://github.com/youngbinwoo/Kaggle_Competition/tree/master/Kaggle_Titanic/Result) 
 
 ## 2. Kaggle_Boston (2020.07.14)   
-- Data (csv files)    [Click](https://github.com/youngbinwoo/Kaggle_Competition/tree/master/Kaggle_Boston/Data)
+- Data (csv files)    [Click](https://github.com/youngbinwoo/Kaggle_Competition/tree/master/Kaggle_Boston/Data)   
   : BOSTON_HOUSING
 
 - Exploratory Data Analysis(EDA)   [Code](https://github.com/youngbinwoo/Kaggle_Competition/tree/master/Kaggle_Boston/EDA)
