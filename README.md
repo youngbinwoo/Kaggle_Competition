@@ -87,5 +87,5 @@ EDA를 통해 각 변수에 대한 인사이트를 얻은 후, 각 모델링으�
 : 오차가 가장 작은 순서 (그레디언트부스팅 -> 랜덤 포레스트 -> 의사결정나무 -> 회귀분석)
 
 #### 4-5) Reprot (pdf files)  
-    [Click](https://github.com/youngbinwoo/Kaggle_Competition/blob/master/Kaggle_Boston/Boston%20Report.pdf)   
+    [Click] (https://github.com/youngbinwoo/Kaggle_Competition/blob/master/Kaggle_Boston/Boston%20Report.pdf)   
 
